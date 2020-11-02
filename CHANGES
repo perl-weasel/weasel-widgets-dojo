@@ -1,3 +1,7 @@
+ 0.06 / 2020-11-02
+  - Use the Down Arrow Button to get selectbox options
+    and option text to select
+
 0.05  2019-09-20
   - Add missing dependency declarations as reported by Kwalitee
 
